@@ -1,0 +1,21 @@
+{
+  "name": "easy-html-mailer",
+  "version": "1.0.0",
+  "description": "A simple Node.js package to send HTML emails using Nodemailer.",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "keywords": [
+    "nodemailer",
+    "email",
+    "html-email",
+    "mailer",
+    "smtp"
+  ],
+  "author": "Yash Vadoliya",
+  "license": "MIT",
+  "dependencies": {
+    "nodemailer": "^6.9.13"
+  }
+}
